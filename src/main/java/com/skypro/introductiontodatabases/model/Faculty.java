@@ -1,5 +1,7 @@
 package com.skypro.introductiontodatabases.model;
 
+
+
 import javax.persistence.*;
 
 @Entity
